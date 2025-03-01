@@ -21,6 +21,6 @@ void main() {
         discard;
     }
     //outputColor = ((outputColor.xyz + outputColor.yzx + outputColor.zxy) / 3.0); // non color
-    outColor0 = pow(vec4(outputColor,transparency), vec4(1/2.2));
+    outColor0 = pow(vec4(outputColor ,transparency), vec4(1/2.2));
     
 }
