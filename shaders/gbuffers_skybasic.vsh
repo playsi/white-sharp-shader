@@ -1,4 +1,4 @@
-#version 460 compatibility
+#version 300 compatibility
 
 out vec4 starData; //rgb = star color, a = flag for whether or not this pixel is a star.
 

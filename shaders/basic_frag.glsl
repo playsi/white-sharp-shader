@@ -1,4 +1,4 @@
-#version 460
+#version 300
 
 uniform sampler2D gtexture;
 uniform sampler2D lightmap;
